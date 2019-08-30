@@ -1,3 +1,5 @@
+# this file was provided by CS50 - I did not write any of the below code from this file.
+
 import cs50
 import re
 from flask import Flask, abort, redirect, render_template, request
