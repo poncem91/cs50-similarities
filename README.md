@@ -1,5 +1,5 @@
 # CS50 - Similarities
-My work for CS50's Similarities assignment.
+My work for HarvardX CS50's Similarities assignment.
 
 A program that parses text files and highlights similarities across files. Program can find whole line similarities, whole sentence similarities, or similarities in substrings of a specified length.
 
