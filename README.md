@@ -1,7 +1,7 @@
 # CS50 - Similarities
 My work for CS50's Similarities assignment.
 
-A website that highlights similarities across files.
+A program that parses text files and highlights similarities across files. Program can find whole line similarities, whole sentence similarities, or similarities in substrings of a specified length.
 
 The following files were provided by CS50 - I did not write any of the code in the below files:
 * compare
@@ -13,6 +13,22 @@ The following files were provided by CS50 - I did not write any of the code in t
 * requirements.txt
 
 https://docs.cs50.net/2018/x/psets/6/similarities/less/similarities.html
+
+
+Look of index layout where you choose, the two text files you wish to compare and to what level you wish to compare them:
+![Index Layout](https://i.imgur.com/goO1WeN.png)
+
+
+Look of whole line similarities highlighted:
+![Whole Line Similarities](https://i.imgur.com/aMjlnnC.png)
+
+
+Look of sentence similarities highlighted:
+![Sentence Similarities](https://i.imgur.com/voVwDlC.png)
+
+
+Look of substrings similarities highlighted:
+![Substring Similarities](https://i.imgur.com/LtWBgNG.png)
 
 
 # Getting Started
