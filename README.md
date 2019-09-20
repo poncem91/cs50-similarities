@@ -3,7 +3,7 @@ My work for HarvardX CS50's Similarities assignment.
 
 A program that parses text files and highlights similarities across files. Program can find whole line similarities, whole sentence similarities, or similarities in substrings of a specified length.
 
-All the code I wrote is in **helpers.py** and in **static/index.html**
+All the code I wrote is in **helpers.py** and in **templates/index.html**
 
 The following files were provided by CS50 - I did not write any of the code in the below files:
 * compare
